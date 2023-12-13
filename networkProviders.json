@@ -1,0 +1,7 @@
+{
+    "networks": [
+        {"providerName": "openserve"},
+        {"providerName": "metrofibre"}
+
+    ]
+}

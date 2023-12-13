@@ -1,0 +1,1662 @@
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/server.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/index.js:2
+const http = require('http');
+      ^
+
+SyntaxError: Identifier 'http' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/index.js:2
+const http = require('http');
+      ^
+
+SyntaxError: Identifier 'http' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/index.js:2
+const http = require('http');
+      ^
+
+SyntaxError: Identifier 'http' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess/axxess_api/axxessAPI.js:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+node:internal/errors:478
+    ErrorCaptureStackTrace(err);
+    ^
+
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be of type string or an instance of Buffer or Uint8Array. Received an instance of Error
+    at new NodeError (node:internal/errors:387:5)
+    at write_ (node:_http_outgoing:843:11)
+    at ServerResponse.end (node:_http_outgoing:977:5)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:50:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+node:internal/errors:478
+    ErrorCaptureStackTrace(err);
+    ^
+
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be of type string or an instance of Buffer or Uint8Array. Received an instance of Error
+    at new NodeError (node:internal/errors:387:5)
+    at write_ (node:_http_outgoing:843:11)
+    at ServerResponse.end (node:_http_outgoing:977:5)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:50:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+node:internal/errors:478
+    ErrorCaptureStackTrace(err);
+    ^
+
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be of type string or an instance of Buffer or Uint8Array. Received an instance of Error
+    at new NodeError (node:internal/errors:387:5)
+    at write_ (node:_http_outgoing:843:11)
+    at ServerResponse.end (node:_http_outgoing:977:5)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:50:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+node:internal/errors:478
+    ErrorCaptureStackTrace(err);
+    ^
+
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be of type string or an instance of Buffer or Uint8Array. Received an instance of Error
+    at new NodeError (node:internal/errors:387:5)
+    at write_ (node:_http_outgoing:843:11)
+    at ServerResponse.end (node:_http_outgoing:977:5)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:50:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+node:internal/errors:478
+    ErrorCaptureStackTrace(err);
+    ^
+
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be of type string or an instance of Buffer or Uint8Array. Received an instance of Error
+    at new NodeError (node:internal/errors:387:5)
+    at write_ (node:_http_outgoing:843:11)
+    at ServerResponse.end (node:_http_outgoing:977:5)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:50:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+node:internal/errors:478
+    ErrorCaptureStackTrace(err);
+    ^
+
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be of type string or an instance of Buffer or Uint8Array. Received an instance of Error
+    at new NodeError (node:internal/errors:387:5)
+    at write_ (node:_http_outgoing:843:11)
+    at ServerResponse.end (node:_http_outgoing:977:5)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:50:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:105:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:103:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:105:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:103:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42
+            curlCall = 'safe';
+                     ^
+
+TypeError: Assignment to constant variable.
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42:22)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42
+            curlCall = 'safe';
+                     ^
+
+TypeError: Assignment to constant variable.
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42:22)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42
+            curlCall = 'safe';
+                     ^
+
+TypeError: Assignment to constant variable.
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42:22)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42
+            curlCall = 'safe';
+                     ^
+
+TypeError: Assignment to constant variable.
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42:22)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42
+            curlCall = 'safe';
+                     ^
+
+TypeError: Assignment to constant variable.
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42:22)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:45:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:45:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:45:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:45:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42
+            curlCall = 'safe';
+                     ^
+
+TypeError: Assignment to constant variable.
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42:22)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42
+            curlCall = 'safe';
+                     ^
+
+TypeError: Assignment to constant variable.
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42:22)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42
+            curlCall = 'safe';
+                     ^
+
+TypeError: Assignment to constant variable.
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42:22)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42
+            curlCall = 'safe';
+                     ^
+
+TypeError: Assignment to constant variable.
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42:22)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42
+            curlCall = 'safe';
+                     ^
+
+TypeError: Assignment to constant variable.
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42:22)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42
+            curlCall = 'safe';
+                     ^
+
+TypeError: Assignment to constant variable.
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42:22)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42
+            curlCall = 'safe';
+                     ^
+
+TypeError: Assignment to constant variable.
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42:22)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42
+            curlCall = 'safe';
+                     ^
+
+TypeError: Assignment to constant variable.
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42:22)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42
+            curlCall = 'safe';
+                     ^
+
+TypeError: Assignment to constant variable.
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:42:22)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:44:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: Error: Invalid curlcall parameter
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:114:23)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+Error: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+    at new NodeError (node:internal/errors:387:5)
+    at new ClientRequest (node:_http_client:186:11)
+    at Object.request (node:http:97:10)
+    at /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:126:26
+    at new Promise (<anonymous>)
+    at makeRequest (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:125:12)
+    at curlFunction (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/axxess_api/axxessAPI.js:25:34)
+    at IncomingMessage.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:43:38)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12) {
+  code: 'ERR_INVALID_PROTOCOL'
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module './axxess_api/axxessAPI2'
+Require stack:
+- /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module './axxess_api/axxessAPI2'
+Require stack:
+- /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module './axxess_api/axxessAPI2'
+Require stack:
+- /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module './axxess_api/axxessAPI2'
+Require stack:
+- /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module './axxess_api/axxessAPI2'
+Require stack:
+- /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module './axxess_api/axxessAPI2'
+Require stack:
+- /home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}

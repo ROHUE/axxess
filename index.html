@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Availability</title>
+    <link type="text/css" rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400&display=swap">
+
+</head>
+
+<body>
+    <svg id="location" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+        <path d="M7.99999 1.33331C6.5855 1.33331 5.22895 1.89522 4.22875 2.89541C3.22856 3.8956 2.66666 5.25216 2.66666 6.66665C2.66666 10.2666 7.36666 14.3333 7.56666 14.5066C7.68741 14.6099 7.84109 14.6667 7.99999 14.6667C8.15889 14.6667 8.31257 14.6099 8.43332 14.5066C8.66666 14.3333 13.3333 10.2666 13.3333 6.66665C13.3333 5.25216 12.7714 3.8956 11.7712 2.89541C10.771 1.89522 9.41448 1.33331 7.99999 1.33331ZM7.99999 13.1C6.57999 11.7666 3.99999 8.89331 3.99999 6.66665C3.99999 5.60578 4.42142 4.58836 5.17156 3.83822C5.92171 3.08807 6.93912 2.66665 7.99999 2.66665C9.06086 2.66665 10.0783 3.08807 10.8284 3.83822C11.5786 4.58836 12 5.60578 12 6.66665C12 8.89331 9.41999 11.7733 7.99999 13.1ZM7.99999 3.99998C7.47257 3.99998 6.957 4.15638 6.51847 4.44939C6.07994 4.74241 5.73814 5.15889 5.53631 5.64616C5.33448 6.13343 5.28167 6.6696 5.38456 7.18689C5.48746 7.70417 5.74143 8.17932 6.11437 8.55226C6.48731 8.9252 6.96247 9.17918 7.47975 9.28207C7.99703 9.38497 8.53321 9.33216 9.02048 9.13033C9.50775 8.92849 9.92422 8.5867 10.2172 8.14817C10.5103 7.70964 10.6667 7.19406 10.6667 6.66665C10.6667 5.9594 10.3857 5.28113 9.88561 4.78103C9.38551 4.28093 8.70723 3.99998 7.99999 3.99998ZM7.99999 7.99998C7.73628 7.99998 7.4785 7.92178 7.25923 7.77527C7.03996 7.62876 6.86907 7.42053 6.76815 7.17689C6.66723 6.93326 6.64083 6.66517 6.69228 6.40653C6.74372 6.14788 6.87071 5.91031 7.05718 5.72384C7.24365 5.53737 7.48123 5.41038 7.73987 5.35893C7.99851 5.30749 8.2666 5.33389 8.51023 5.43481C8.75387 5.53572 8.96211 5.70662 9.10862 5.92589C9.25512 6.14515 9.33332 6.40294 9.33332 6.66665C9.33332 7.02027 9.19285 7.35941 8.9428 7.60946C8.69275 7.8595 8.35361 7.99998 7.99999 7.99998Z" fill="#090F09"/>
+    </svg>
+        
+    <div class="side-nav">
+        <div class="logo-container">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8.64978 0.304626H14.4975V20.7716C14.4975 22.3864 13.1884 23.6954 11.5736 23.6954C9.95883 23.6954 8.64978 22.3864 8.64978 20.7716V0.304626Z" fill="#1FEA00"/>
+                <path d="M2.93325 6.17104C1.31845 6.17366 0.00727743 4.86673 0.00465984 3.25194C0.00204224 1.63714 1.30897 0.325969 2.92377 0.323351L14.4974 0.30459L14.5069 6.15228L2.93325 6.17104Z" fill="#1FEA00"/>
+                <circle cx="21.0761" cy="3.22848" r="2.92385" fill="#1FEA00"/>
+              </svg>
+        </div>
+        <div class="nav-container">
+            <span>Check Availability</span>
+            <div class="nav-items-container">
+                <div class="nav-item" data-content="fiber">
+                    <div class="logo-container" id="fiber-logo">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="40px" height="20px" viewBox="0 0 18 20" fill="#1FEA00">
+                            <path d="M13.1644 19.2791L13.8829 18.6526C13.9484 18.5955 13.9886 18.5148 13.9945 18.4281C14.0004 18.3414 13.9717 18.2559 13.9146 18.1904L7.41126 10.7309L5.98705 8.43924C5.97754 8.42586 5.96672 8.41345 5.95476 8.4022L4.1696 6.32963C4.22348 6.26984 4.25347 6.19231 4.25384 6.11183C4.25421 6.03135 4.22495 5.95355 4.17162 5.89327L3.17707 4.75248C3.11998 4.68699 3.03921 4.64687 2.95253 4.64093C2.86585 4.63499 2.78036 4.66373 2.71488 4.72083L2.38153 5.01144L1.83474 4.38426C1.77765 4.31877 1.69688 4.27864 1.6102 4.27271C1.52352 4.26677 1.43804 4.29551 1.37255 4.3526L0.69351 4.9446C0.628022 5.00169 0.587896 5.08246 0.58196 5.16914C0.576024 5.25582 0.604764 5.3413 0.661857 5.40679L1.20864 6.03398L0.882706 6.31813C0.817218 6.37523 0.777092 6.456 0.771156 6.54268C0.76522 6.62935 0.79396 6.71484 0.851053 6.78033L1.84991 7.92605C1.90236 7.9871 1.97544 8.0267 2.05523 8.0373C2.13501 8.0479 2.2159 8.02877 2.28247 7.98354L4.09233 10.0346L4.12462 10.0716L6.19855 11.7925L12.6997 19.2496C12.7282 19.2822 12.7628 19.3089 12.8016 19.328C12.8405 19.3472 12.8827 19.3585 12.9259 19.3612C12.9691 19.364 13.0124 19.3581 13.0534 19.344C13.0943 19.3299 13.132 19.3078 13.1644 19.2791ZM5.22496 10.1423L5.89412 9.55895L6.12212 9.92516L5.56654 10.4095L5.22496 10.1423ZM6.47364 10.4879L6.71981 10.86L6.42103 11.1205L6.0761 10.8345L6.47364 10.4879ZM5.44401 8.80836L5.55494 8.98545L4.72281 9.71092L4.56249 9.57688L2.77632 7.553L3.68253 6.76295L5.44401 8.80836ZM13.2055 18.3741L12.9808 18.5699L6.88861 11.582L7.11331 11.3861L13.2055 18.3741ZM1.37097 5.22317L1.54629 5.07033L1.87781 5.45059L1.70249 5.60344L1.37097 5.22317ZM1.56017 6.59671L2.90096 5.42779L3.46928 6.07967L2.12848 7.24859L1.56017 6.59671ZM15.6 15.6172L15.9358 15.3244L16.4826 15.9516C16.5397 16.0171 16.6205 16.0572 16.7071 16.0632C16.7938 16.0691 16.8793 16.0404 16.9448 15.9833L17.6238 15.3913C17.6893 15.3342 17.7294 15.2534 17.7354 15.1667C17.7413 15.0801 17.7126 14.9946 17.6555 14.9291L17.1087 14.3019L17.4445 14.0091C17.51 13.952 17.5501 13.8713 17.5561 13.7846C17.562 13.6979 17.5332 13.6124 17.4762 13.5469L16.4773 12.4012C16.4249 12.3402 16.3518 12.3006 16.272 12.29C16.1922 12.2794 16.1113 12.2985 16.0447 12.3437L14.2472 10.2819C14.2377 10.2685 14.2269 10.2561 14.2149 10.2449L12.141 8.52402L5.63983 1.06694C5.58274 1.00145 5.50197 0.961324 5.41529 0.955388C5.32861 0.949452 5.24312 0.978192 5.17764 1.03529L4.4344 1.68325C4.36891 1.74034 4.32878 1.82111 4.32285 1.90779C4.31691 1.99447 4.34565 2.07995 4.40274 2.14544L10.9061 9.605L12.3303 11.8966C12.3398 11.91 12.3506 11.9224 12.3626 11.9337L14.1601 13.9955C14.1062 14.0553 14.0762 14.1328 14.0758 14.2133C14.0755 14.2938 14.1047 14.3716 14.1581 14.4318L15.1569 15.5776C15.2122 15.6387 15.2886 15.6768 15.3707 15.6841C15.4528 15.6915 15.5347 15.6676 15.6 15.6172ZM12.7508 9.92636L13.1031 10.2059L12.4241 10.7979L12.1961 10.4317L12.7508 9.92636ZM11.8264 9.86306L11.5975 9.47589L11.8963 9.21541L12.2412 9.5014L11.8264 9.86306ZM12.856 11.5426L12.7451 11.3655L13.5772 10.64L13.7376 10.7741L15.5114 12.8087L14.6348 13.5729L12.856 11.5426ZM16.9464 15.1127L16.771 15.2655L16.4395 14.8853L16.6148 14.7324L16.9464 15.1127ZM16.767 13.7306L15.4164 14.9081L14.8481 14.2562L16.1888 13.0873L16.767 13.7306ZM5.11186 1.96183L5.33656 1.76593L11.4287 8.75386L11.204 8.94975L5.11186 1.96183Z" fill="#1FEA00"/>
+                        </svg>
+                    </div>
+                    <span>FIBER</span>
+                </div>
+                <div class="nav-item" data-content="mtn-fixed-lte">
+                    <div class="logo-container">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="36" height="21" viewBox="0 2 40 16" fill="none">
+                            <path d="M20 0.327271C8.95438 0.327271 0 4.8045 0 10.3272C0 15.85 8.95438 20.3272 20 20.3272C31.0456 20.3272 40 15.85 40 10.3272C40 4.80442 31.0456 0.327271 20 0.327271ZM20 18.7485C9.82624 18.7485 1.57879 14.9782 1.57879 10.3272C1.57879 5.67627 9.82632 1.90598 20 1.90598C30.1738 1.90598 38.4212 5.67627 38.4212 10.3272C38.4212 14.9782 30.1737 18.7485 20 18.7485ZM17.4778 8.57286V6.99383H23.12V8.57286H21.0887V13.6606H19.5094V8.57286H17.4778ZM29.9306 6.99383V13.6607H28.3518L25.4884 9.69197V13.6607H23.9096V6.99383H25.4883L28.3518 10.9626V6.99383H29.9306ZM10.0224 13.6607V6.99383H11.6012L13.3553 9.69197L15.1093 6.99383H16.6874V13.6607H15.1093V9.88977L13.9118 11.7304H12.7987L11.6012 9.88977V13.6607H10.0224Z" fill="#F7C505"/>
+                        </svg>
+                    </div>
+                    <span>FIXED LTE</span>
+                </div>
+                <div class="nav-item" data-content="mtn-capped-lte">
+                    <div class="logo-container">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="36" height="21" viewBox="0 2 40 16" fill="none">
+                            <path d="M20 0.327271C8.95438 0.327271 0 4.8045 0 10.3272C0 15.85 8.95438 20.3272 20 20.3272C31.0456 20.3272 40 15.85 40 10.3272C40 4.80442 31.0456 0.327271 20 0.327271ZM20 18.7485C9.82624 18.7485 1.57879 14.9782 1.57879 10.3272C1.57879 5.67627 9.82632 1.90598 20 1.90598C30.1738 1.90598 38.4212 5.67627 38.4212 10.3272C38.4212 14.9782 30.1737 18.7485 20 18.7485ZM17.4778 8.57286V6.99383H23.12V8.57286H21.0887V13.6606H19.5094V8.57286H17.4778ZM29.9306 6.99383V13.6607H28.3518L25.4884 9.69197V13.6607H23.9096V6.99383H25.4883L28.3518 10.9626V6.99383H29.9306ZM10.0224 13.6607V6.99383H11.6012L13.3553 9.69197L15.1093 6.99383H16.6874V13.6607H15.1093V9.88977L13.9118 11.7304H12.7987L11.6012 9.88977V13.6607H10.0224Z" fill="#F7C505"/>
+                        </svg>
+                    </div>
+                    <span>CAPPED LTE</span>
+                </div>
+                <div class="nav-item" data-content="mtn-5g-lte">
+                    <div class="logo-container">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="36" height="21" viewBox="0 2 40 16" fill="none">
+                            <path d="M20 0.327271C8.95438 0.327271 0 4.8045 0 10.3272C0 15.85 8.95438 20.3272 20 20.3272C31.0456 20.3272 40 15.85 40 10.3272C40 4.80442 31.0456 0.327271 20 0.327271ZM20 18.7485C9.82624 18.7485 1.57879 14.9782 1.57879 10.3272C1.57879 5.67627 9.82632 1.90598 20 1.90598C30.1738 1.90598 38.4212 5.67627 38.4212 10.3272C38.4212 14.9782 30.1737 18.7485 20 18.7485ZM17.4778 8.57286V6.99383H23.12V8.57286H21.0887V13.6606H19.5094V8.57286H17.4778ZM29.9306 6.99383V13.6607H28.3518L25.4884 9.69197V13.6607H23.9096V6.99383H25.4883L28.3518 10.9626V6.99383H29.9306ZM10.0224 13.6607V6.99383H11.6012L13.3553 9.69197L15.1093 6.99383H16.6874V13.6607H15.1093V9.88977L13.9118 11.7304H12.7987L11.6012 9.88977V13.6607H10.0224Z" fill="#F7C505"/>
+                        </svg>
+                    </div>
+                    <span>5G LTE</span>
+                </div>
+                <div class="nav-item" id="telkom-uncapped-lte" data-content="telkom-uncapped-lte">
+                    <div class="logo-container">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="23" viewBox="0 0 40 23" fill="none">
+                            <path d="M12.0681 9.78223H10.6296H9.32003H7.88354V10.8299H9.32003V15.6732H10.6296V10.8299H12.0681V9.78223Z" fill="white"/>
+                            <path d="M16.8893 9.78223V15.6732H16.2345C16.0532 15.6732 15.89 15.6007 15.7731 15.4798C15.6543 15.3609 15.5797 15.1978 15.5797 15.0184V9.78223H16.8893Z" fill="white"/>
+                            <path d="M17.3748 9.78223V15.6732H18.6824V13.5014V9.78223H17.3748Z" fill="white"/>
+                            <path d="M21.2914 11.3315H19.9838L18.8052 13.5014L19.9838 15.6732H21.2914L20.1148 13.5014L21.2914 11.3315Z" fill="white"/>
+                            <path d="M24.0254 11.4626C23.8038 11.3779 23.564 11.3336 23.3142 11.3336C23.0624 11.3336 22.8226 11.38 22.601 11.4626C21.8354 11.7486 21.2914 12.488 21.2914 13.3544V13.6525C21.2914 14.5189 21.8354 15.2583 22.601 15.5444C22.8226 15.629 23.0624 15.6733 23.3142 15.6733C23.564 15.6733 23.8038 15.627 24.0254 15.5444C24.791 15.2583 25.335 14.5189 25.335 13.6525V13.3524C25.335 12.488 24.791 11.7486 24.0254 11.4626ZM23.3142 14.8916C22.9193 14.8916 22.601 14.5733 22.601 14.1784V12.8628C22.601 12.4699 22.9193 12.1496 23.3142 12.1496C23.7071 12.1496 24.0254 12.4699 24.0254 12.8628V14.1784C24.0254 14.5733 23.7071 14.8916 23.3142 14.8916Z" fill="white"/>
+                            <path d="M30.8069 11.3537C30.7223 11.3396 30.6336 11.3315 30.543 11.3315C30.2005 11.3315 29.8821 11.4403 29.6243 11.6297C29.4994 11.7184 29.3906 11.8251 29.2959 11.946C29.0581 11.6378 28.7116 11.4202 28.3147 11.3537C28.2281 11.3396 28.1414 11.3315 28.0508 11.3315C27.7083 11.3315 27.39 11.4424 27.1301 11.6297L26.9991 11.3315H25.8225V15.6732H27.1301V14.1824V12.7439C27.1301 12.4175 27.396 12.1515 27.7224 12.1515C28.0488 12.1515 28.3147 12.4155 28.3147 12.7439V14.4584V15.6732H29.6243V14.1824V12.7439C29.6243 12.4175 29.8882 12.1515 30.2166 12.1515C30.545 12.1515 30.8089 12.4155 30.8089 12.7439V14.4584V15.6732H32.1185V12.907C32.1165 12.1274 31.5503 11.4806 30.8069 11.3537Z" fill="white"/>
+                            <path d="M15.0942 13.5014C15.0942 13.3321 15.0761 13.169 15.0418 13.0098C14.8384 12.0468 14.0486 11.3315 13.1057 11.3315C12.1608 11.3315 11.371 12.0488 11.1676 13.0098C11.1333 13.169 11.1152 13.3321 11.1152 13.5014C11.1152 13.6122 11.1232 13.723 11.1394 13.8298C11.2824 14.8734 12.1104 15.6732 13.1057 15.6732C14.1131 15.6732 14.7759 15.3529 14.7759 15.3529L14.5402 15.0044L14.3105 14.6659C14.111 14.7364 13.6759 14.8553 13.1037 14.8553C12.6282 14.8553 12.2434 14.3979 12.2434 13.8318H15.0721C15.0862 13.723 15.0942 13.6122 15.0942 13.5014ZM12.2454 13.0118C12.2454 12.5384 12.6302 12.1535 13.1057 12.1535C13.5792 12.1535 13.964 12.5384 13.964 13.0118H12.2454Z" fill="white"/>
+                            <path d="M40 2.48099H39.182H2.97169V0.327271H2.15372V2.47898H0V3.29896H2.15171V22.1566V22.9746H39.998V2.48099H40ZM2.97169 3.29896H39.182V22.1566H2.97169V3.29896Z" fill="white"/>
+                        </svg>
+                    </div>
+                    <span>UNCAPPED LTE</span>
+                </div>
+                <div class="nav-item" data-content="telkom-capped-lte">
+                    <div class="logo-container">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="23" viewBox="0 0 40 23" fill="none">
+                            <path d="M12.0681 9.78223H10.6296H9.32003H7.88354V10.8299H9.32003V15.6732H10.6296V10.8299H12.0681V9.78223Z" fill="white"/>
+                            <path d="M16.8893 9.78223V15.6732H16.2345C16.0532 15.6732 15.89 15.6007 15.7731 15.4798C15.6543 15.3609 15.5797 15.1978 15.5797 15.0184V9.78223H16.8893Z" fill="white"/>
+                            <path d="M17.3748 9.78223V15.6732H18.6824V13.5014V9.78223H17.3748Z" fill="white"/>
+                            <path d="M21.2914 11.3315H19.9838L18.8052 13.5014L19.9838 15.6732H21.2914L20.1148 13.5014L21.2914 11.3315Z" fill="white"/>
+                            <path d="M24.0254 11.4626C23.8038 11.3779 23.564 11.3336 23.3142 11.3336C23.0624 11.3336 22.8226 11.38 22.601 11.4626C21.8354 11.7486 21.2914 12.488 21.2914 13.3544V13.6525C21.2914 14.5189 21.8354 15.2583 22.601 15.5444C22.8226 15.629 23.0624 15.6733 23.3142 15.6733C23.564 15.6733 23.8038 15.627 24.0254 15.5444C24.791 15.2583 25.335 14.5189 25.335 13.6525V13.3524C25.335 12.488 24.791 11.7486 24.0254 11.4626ZM23.3142 14.8916C22.9193 14.8916 22.601 14.5733 22.601 14.1784V12.8628C22.601 12.4699 22.9193 12.1496 23.3142 12.1496C23.7071 12.1496 24.0254 12.4699 24.0254 12.8628V14.1784C24.0254 14.5733 23.7071 14.8916 23.3142 14.8916Z" fill="white"/>
+                            <path d="M30.8069 11.3537C30.7223 11.3396 30.6336 11.3315 30.543 11.3315C30.2005 11.3315 29.8821 11.4403 29.6243 11.6297C29.4994 11.7184 29.3906 11.8251 29.2959 11.946C29.0581 11.6378 28.7116 11.4202 28.3147 11.3537C28.2281 11.3396 28.1414 11.3315 28.0508 11.3315C27.7083 11.3315 27.39 11.4424 27.1301 11.6297L26.9991 11.3315H25.8225V15.6732H27.1301V14.1824V12.7439C27.1301 12.4175 27.396 12.1515 27.7224 12.1515C28.0488 12.1515 28.3147 12.4155 28.3147 12.7439V14.4584V15.6732H29.6243V14.1824V12.7439C29.6243 12.4175 29.8882 12.1515 30.2166 12.1515C30.545 12.1515 30.8089 12.4155 30.8089 12.7439V14.4584V15.6732H32.1185V12.907C32.1165 12.1274 31.5503 11.4806 30.8069 11.3537Z" fill="white"/>
+                            <path d="M15.0942 13.5014C15.0942 13.3321 15.0761 13.169 15.0418 13.0098C14.8384 12.0468 14.0486 11.3315 13.1057 11.3315C12.1608 11.3315 11.371 12.0488 11.1676 13.0098C11.1333 13.169 11.1152 13.3321 11.1152 13.5014C11.1152 13.6122 11.1232 13.723 11.1394 13.8298C11.2824 14.8734 12.1104 15.6732 13.1057 15.6732C14.1131 15.6732 14.7759 15.3529 14.7759 15.3529L14.5402 15.0044L14.3105 14.6659C14.111 14.7364 13.6759 14.8553 13.1037 14.8553C12.6282 14.8553 12.2434 14.3979 12.2434 13.8318H15.0721C15.0862 13.723 15.0942 13.6122 15.0942 13.5014ZM12.2454 13.0118C12.2454 12.5384 12.6302 12.1535 13.1057 12.1535C13.5792 12.1535 13.964 12.5384 13.964 13.0118H12.2454Z" fill="white"/>
+                            <path d="M40 2.48099H39.182H2.97169V0.327271H2.15372V2.47898H0V3.29896H2.15171V22.1566V22.9746H39.998V2.48099H40ZM2.97169 3.29896H39.182V22.1566H2.97169V3.29896Z" fill="white"/>
+                            </svg>
+                    </div>
+                    <span>CAPPED LTE</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="info-area">
+        <div class="network-provider-section">
+            <div class="network-provider-container" data-content="metrofibre">
+                <div class="network-provider-card">
+                <div id="metrofiber-logo" class="provider-logo">
+                        <img src="./img/metrofiberLogo.png" alt="My Image">
+                </div>
+                </div>
+            </div>
+            <div class="network-provider-container" data-content="openserve">
+                <div class="network-provider-card">
+                <div id="openserve-logo" class="provider-logo">
+                        <img src="./img/openserve logo.png" alt="My Image">
+                </div>
+                </div>
+            </div>
+            <div class="network-provider-container" data-content="vumatel">
+                <div class="network-provider-card">
+                <div id="vumatel-logo" class="provider-logo">
+                        <img src="./img/vumatelLogo.png" alt="My Image">
+                </div>
+                </div>
+            </div>
+            <div class="network-provider-container" data-content="mtn_lte">
+                <div class="network-provider-card">
+                <div id="mtn-logo" class="provider-logo">
+                        <div class="mtn-logo-container">
+                            <img src="./img/mtnLogo.png" alt="My Image">
+                            <span>FIXED LTE</span>
+                        </div>
+                </div>
+                </div>
+            </div>
+            <div class="network-provider-container" data-content="mtn_mobile">
+                <div class="network-provider-card">
+                <div id="mtn-logo" class="provider-logo">
+                        <div class="mtn-logo-container">
+                            <img src="./img/mtnLogo.png" alt="My Image">
+                            <span>CAPPED LTE</span>
+                        </div>
+                </div>
+                </div>
+            </div>
+            <div class="network-provider-container">
+                <div class="network-provider-card">
+                <div id="mtn-logo" class="provider-logo">
+                        <div class="mtn-logo-container">
+                            <img src="./img/mtnLogo.png" alt="My Image">
+                            <span>5G LTE</span>
+                        </div>
+                </div>
+                </div>
+            </div>
+        </div>
+        <div class="info-section- wrapper">
+            <div class="info-section">
+                <span class="info-heading"></span>
+                <p class="info-description"></p>
+                <p class="info-description"></p>
+                <p class="info-description"></p>
+            </div>
+        </div>
+        
+    </div>
+    <script type="text/javascript" id="fibrescript">
+        (function () {
+            var ax = document.createElement('script');
+            ax.id = 'mainscript';
+            ax.type = 'text/javascript';
+            ax.async = true;
+            ax.src = 'https://rcp.axxess.co.za/public/js/fibremapJs.php?key=AIzaSyDZV0qdEpGd9HZZr969i_Exv0WqugU-3Bo&width=100vw&height=100vh';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ax, s);
+
+            const baseURL = 'http://localhost:3000/services';
+            const data = { strUserName: 'username', strPassword: 'password' };
+            const curlCall = 'getSession';
+            let sessionId = "";
+
+            var images = null
+            var networkProviderContainer = null;
+            renderCustomMap();
+
+            function renderCustomMap()
+            {
+                images = document.querySelectorAll('img[role="presentation"]');
+
+                if(images.length > 0) {
+                    const observer = new MutationObserver(() => {
+                        images = document.querySelectorAll('img[role="presentation"]');
+                        if(images)
+                            for (let i = 0; i < images.length; i++) {
+                                const src = images[i].src;
+                                images[i].src = src.replace('styles=purple', 'styles=lime');
+                            }
+                        });
+
+                        observer.observe(document.body, { childList: true, subtree: true });
+
+                        Promise.all(Array.from(images).map(img => new Promise(resolve => {
+                        if (img.complete) {
+                            resolve();
+                        } else {
+                            img.addEventListener('load', resolve);
+                        }
+                        }))).then(() => {
+                            console.log(images);
+                            for (let i = 0; i < images.length; i++) {
+                                const src = images[i].src;
+                                images[i].src = src.replace('styles=purple', 'styles=green');
+                            }
+                            console.log(Array.from(images).map((image) => image.src));
+
+
+                        });
+                }
+                else {
+                    setTimeout(renderCustomMap, 100);
+                }
+            }
+  
+            function updateDataWithAddress(result, selectedAddress) {
+                var data = {
+                    "strSessionId": sessionId,
+                    "strLongitude": document.getElementById('latlong-input').value.split(',')[1],
+                    "strLatitude": document.getElementById('latlong-input').value.split(',')[0],
+                    "strAddress": selectedAddress
+                };
+
+                var curlCall = 'checkFibreAvailability';
+
+                var request = { data, curlCall };
+                
+                const elements = document.querySelectorAll('.network-provider-container');
+                elements.forEach((element) => {
+                    element.style.display = "none";
+                })
+                
+                // Send the updated data to the checkFibreAvailability endpoint
+                fetch(`${baseURL}/checkFibreAvailability`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(request),
+                })
+                    .then(response => response.json())
+                    .then(result => {
+                      
+                        const message =  JSON.parse(result).strMessage;
+                        console.log(message);
+                        //console.log(JSON.parse(result).arrAvailableProvidersGuids[1].guidNetworkProviderId);
+                        getNetworkProviders(JSON.parse(result).arrAvailableProvidersGuids);
+                        // Handle the response as needed
+                    })
+                    .catch(error => console.error('Error:', error));
+                
+                curlCall = 'checkTelkomLteAvailability';
+                request = {data, curlCall};
+                // Send the updated data to the checkFibreAvailability endpoint
+                fetch(`${baseURL}/checkTelkomLteAvailability`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(request),
+                })
+                    .then(response => response.json())
+                    .then(result => {
+                        console.log('telkom');
+                        const message =  JSON.parse(result).strMessage;
+                        console.log(message);
+                        console.log(result);
+                    })
+                    .catch(error => console.error('Error:', error));
+            }
+
+            function getNetworkProviders(networkProviderGuid) {
+                const data = {
+                    "strSessionId": sessionId,
+                };
+
+                const curlCall = 'getNetworkProviders';
+
+                const request = { data, curlCall };
+                fetch(`${baseURL}/getNetworkProviders`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(request),
+                })
+                    .then(response => response.json())
+                    .then(result => {
+                        const netProviderSection = document.querySelector('.network-provider-section');
+                        const keyToSearch = 'guidNetworkProviderId';
+                        const networkProviders = JSON.parse(result).arrNetworkProviders;
+                        if(networkProviderGuid) {
+                            netProviderSection.style.display = "flex";
+                            const valuesToFind = networkProviderGuid.map((provider) => {
+                                return provider.guidNetworkProviderId;
+                            })
+                            const availableNetworks = findObjectsByValues(networkProviders, keyToSearch, valuesToFind);
+                            availableNetworks.forEach((network) => {
+                                const element = document.querySelector(`[data-content="${network.strName}"]`);
+                                console.log('Network:', network.strName);
+                                console.log('Element:', element);
+
+                                if (element) {
+                                    element.style.display = "flex";
+                                    console.log('Element style changed:', element);
+                                } else {
+                                    console.log('Element not found.');
+                                }
+                            });
+                        }
+                        else {
+                            netProviderSection.style.display = "none";
+                        }
+                        networkProviders.forEach(element => {
+                            console.log(element.strName);
+                        });
+                    })
+                    .catch(error => console.error('Error:', error));
+            }
+
+            function findObjectsByValues(jsonArray, keyToSearch, valuesToFind) {
+                const foundObjects = [];
+
+                jsonArray.forEach(obj => {
+                   // Check if the object has the specified key and its value matches any of the valuesToFind
+                    if (obj.hasOwnProperty(keyToSearch) && valuesToFind.includes(obj[keyToSearch])) {
+                        foundObjects.push(obj);
+                    }
+                });
+                return foundObjects;
+            }
+
+            // Fetch example
+            fetch(`${baseURL}/getSession`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ data, curlCall }),
+            })
+                .then(response => response.json())
+                .then(result => {
+                    sessionId = JSON.parse(result).strSessionId;
+                    // Call the recursive function when the script runs
+                    waitForElementToLoad();   
+                })
+                .catch(error => console.error('Error:', error));
+            
+            function waitForElementToLoad() {
+
+                const latlongInput = document.getElementById('latlong-input');
+
+                if (latlongInput) {
+                    // Set up a MutationObserver to watch for changes to the value of latlong-input
+                    const observer = new MutationObserver((check) => {
+                        const selectedAddress = document.getElementById('address-input').value;
+                        updateDataWithAddress(sessionId, selectedAddress);
+
+                    });
+
+                    observer.observe(latlongInput, { attributes: true, childList: false, subtree: false });
+                    
+                } else {
+                    // If the element is not found, wait and check again
+                    setTimeout(waitForElementToLoad, 100); // Adjust the timeout as needed
+                }
+            }
+            document.addEventListener("DOMContentLoaded", function() {
+                var triggerElements = document.querySelectorAll('.nav-item');
+                var hiddenElement = document.querySelector('.info-section');
+                var heading = hiddenElement.querySelector('.info-heading');
+                var descriptions = hiddenElement.querySelectorAll('.info-description');
+
+                // Add event listeners to each trigger element
+                triggerElements.forEach(function(triggerElement) {
+                    triggerElement.addEventListener('mouseover', function() {
+                        // Get the content type from the data-content attribute
+                        var contentType = triggerElement.getAttribute('data-content');
+
+                        // Set content based on the type
+                        switch (contentType) {
+                            case 'fiber':
+                                heading.textContent = 'Fiber Optic Internet';
+                                descriptions[0].innerHTML = '<span>Uncapped Internet</span><br>Only pay once a month and never worry about your data finishing again, browse the internet and connect to your loved ones as much as you want.';
+                                descriptions[1].innerHTML = '<span>Blazing Fast Speeds</span><br>Fiber-optic technology ensures lightning-fast internet speeds, perfect for high-bandwidth activities like HD streaming, online gaming, and large file downloads.';
+                                descriptions[2].innerHTML = '<span>Reliable</span><br>Enjoy a stable and consistent connection, even during peak usage hours.';
+                                break;
+                            case 'mtn-fixed-lte':
+                                heading.textContent = 'MTN Fixed LTE';
+                                descriptions[0].innerHTML = '<span>Uncapped Internet</span><br>Only pay once a month and never worry about your data finishing again, browse the internet and connect to your loved ones as much as you want.';
+                                descriptions[1].innerHTML = '<span>Good Fiber Alternative</span><br>This less stable and reliable than fiber this is a good option for families and businesses that have no fiber infrastructure or are unable to use the infrastructre.';
+                                descriptions[2].innerHTML = '<span>Flexible</span><br> Even though Fixed LTE is for home and business use, it is a good option if switching home or business locations happens frequently, which is not so easy with fiber';
+                                break;
+                            case 'mtn-capped-lte':
+                                heading.textContent = 'MTN Capped LTE';
+                                descriptions[0].innerHTML = '<span>Mobile Internet</span><br>A good alternative if you are always on the move and want to browse the internet away from the home and business premises, can be used on your mobile phone and mobile router.';
+                                descriptions[1].innerHTML = '<span>Blazing Fast Speeds</span><br>Fiber-optic technology ensures lightning-fast internet speeds, perfect for high-bandwidth activities like HD streaming, online gaming, and large file downloads.';
+                                descriptions[2].innerHTML = '<span>Good Availability</span><br>As an MTN package it can connect to the internet in areas that are more remote.';
+                                break;
+                            case 'mtn-5g-lte':
+                                heading.textContent = 'MTN 5G LTE';
+                                descriptions[0].innerHTML = '<span>Uncapped Internet</span><br>Only pay once a month and never worry about your data finishing again, browse the internet and connect to your loved ones as much as you want.';
+                                descriptions[1].innerHTML = '<span>Blazing Fast Speeds</span><br>Fiber-optic technology ensures lightning-fast internet speeds, perfect for high-bandwidth activities like HD streaming, online gaming, and large file downloads.';
+                                descriptions[2].innerHTML = '<span>Good Fiber Alternative</span><br>This less stable and reliable than fiber this is a good option for families and businesses that have no fiber infrastructure or are unable to use the infrastructre.';
+                                break;
+                            case 'telkom-uncapped-lte':
+                                heading.textContent = 'Telkom Uncapped LTE';
+                                descriptions[0].innerHTML = '<span>Uncapped Internet</span><br>Only pay once a month and never worry about your data finishing again, browse the internet and connect to your loved ones as much as you want.';
+                                descriptions[1].innerHTML = '<span>Mobile Internet</span><br>A good alternative if you are always on the move and want to browse the internet away from the home and business premises, can be used on your mobile phone and mobile router.';
+                                descriptions[2].innerHTML = '<span></span>'
+                                break;
+                            case 'telkom-capped-lte':
+                                heading.textContent = 'Telkom Uncapped LTE';
+                                descriptions[0].innerHTML = '<span>Mobile Internet</span><br>A good alternative if you are always on the move and want to browse the internet away from the home and business premises, can be used on your mobile phone and mobile router.';
+                                descriptions[1].innerHTML = '<span>Affordable</span><br>Affordable Connectivity Package offers competitively priced plans tailored to meet your needs.';
+                                descriptions[2].innerHTML = '<span></span>'
+                                                                break;
+                            default:
+                                break;
+                        }
+
+                        // Show the hidden element
+                        hiddenElement.style.display = 'flex';
+                    });
+
+                    triggerElement.addEventListener('mouseout', function() {
+                        // Hide the hidden element on mouseout
+                        hiddenElement.style.display = 'none';
+                    });
+                });
+            });
+
+            
+        })();
+    </script>
+</body>
+
+</html>

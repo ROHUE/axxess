@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/vhaxlkrp/domains/technovators.co.za/public_html/backend/axxess/Axxess"
+PassengerBaseURI "/service"
+PassengerNodejs "/home/vhaxlkrp/nodevenv/domains/technovators.co.za/public_html/backend/axxess/Axxess/10/bin/node"
+PassengerAppType node
+PassengerStartupFile index.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END

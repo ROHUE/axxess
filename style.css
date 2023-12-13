@@ -1,0 +1,228 @@
+body {
+    overflow: hidden;
+    color: white;
+    font-family: Poppins;
+}
+
+
+
+input#address-input {
+    display: flex;
+    width: 300px !important;
+    height: 32px;
+    padding: 0px 40px;
+    align-items: center;
+    gap: 16px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    border: 0.5px solid rgba(9, 15, 9, 0.38);
+    background: #FFF;
+    position: absolute;
+    top: 32px;
+    left: 334px;
+    z-index: 10;
+}
+
+svg#location {
+    position: absolute;
+    top: 40px;
+    left: 346px;
+    z-index: 11;
+
+}
+
+div.side-nav {
+    display: flex;
+    width: 300px;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    position: absolute;
+    background: linear-gradient(180deg, #091009 15.63%, rgba(9, 16, 9, 0.88) 100%);
+    z-index: 10;
+}
+
+div.logo-container {
+    display: flex;
+    padding: 10px 40px;
+    align-items: center;
+    gap: 26px;
+    align-self: stretch;
+}
+
+div.nav-container {
+    display: flex;
+    padding: 0px 36px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    align-self: stretch;
+}
+
+div.nav-container span {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+div.nav-items-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-self: stretch;
+}
+
+div.nav-item {
+    display: flex;
+    padding: 8px 36px 8px 4px;
+    align-items: center;
+    gap: 16px;
+    align-self: stretch;
+    cursor: pointer;
+    transition: transform 250ms ease-out;
+}
+
+div.nav-item:hover {
+    background: rgba(77, 77, 77, 0.40);
+    box-shadow: 0px 0px 12px 8px rgba(0, 0, 0, 0.70);
+    backdrop-filter: blur(2px);
+    transform: scale(1.15);
+}
+
+
+div.nav-item:active {
+    background: rgba(100, 100, 100, 0.40);
+    box-shadow: 0px 0px 12px 8px rgba(0, 0, 0, 1);
+}
+
+div.logo-container {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    padding: 1px 1px;
+    justify-content: center;
+    align-items: center;
+}
+
+div#fiber-logo {
+    width: 32px;
+    height: 32px;
+    border-radius: 36px;
+    border: 4px solid #1FEA00;
+}
+
+
+
+div#telkom-uncapped-lte {
+    letter-spacing: 0px !important;
+}
+
+div.nav-item span {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 3.40px;
+    word-wrap: break-word;
+}
+
+div.info-area {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    left: 300px;
+    top: 12%;
+    padding: 0px 32px;
+    gap: 32px;
+    z-index: 9;
+}
+
+div.network-provider-section {
+    display: none;
+    flex-direction: column;
+    height: auto;
+}
+
+div.network-provider-container {
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    padding: 16px 0px;
+    align-items: center;
+    gap: 24px;
+    transition: transform 250ms ease-out;
+}
+
+div.network-provider-container:hover {
+    transform: scale(1.2) translateX(5%);
+
+}
+
+div.network-provider-card {
+    display: flex;
+    width: 222px;
+    padding: 0px 8px 16px 8px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: rgba(9, 31, 9, 0.61);
+}
+
+div.provider-logo {
+    justify-content: center;
+    width: 232px;
+    height: 112px;
+    flex-shrink: 0;
+}
+
+div.mtn-logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    transform: translateY(20%);
+    font-weight: 600;
+}
+
+div#mtn-logo img {
+    width: 50%;
+}
+
+
+div#vumatel-logo img {
+    width: 90%;
+    transform: translateX(5%);
+}
+
+div.provider-logo img {
+    width: 100%;
+    background-color: transparent;
+}
+
+div.info-section-wrapper {
+    display: flex;
+}
+
+div.info-section {
+    display: none;
+    flex-direction: column;
+    width: 280px;
+    padding: 24px 24px;
+    transform: translateY(16px);
+    border-radius: 16px;
+    background: rgba(9, 31, 9, 0.80);
+}
+
+span.info-heading{
+    font-weight: 600;
+}
+
+p.info-description {
+    font-size: 14px;
+    font-weight: 100;
+
+}
+
+p.info-description span{
+    color: #1FEA00;
+    font-size: 12px;
+}
