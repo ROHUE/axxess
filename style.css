@@ -5,6 +5,46 @@ body {
 }
 
 
+div.load-panel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(9, 15, 9, 1);
+    z-index: 100;
+}
+
+h1{
+    margin: 1em 0;
+    border-bottom: 1px dashed;
+    padding-bottom: 1em;
+    font-weight: lighter;
+  }
+
+  p{
+    font-style: italic;
+  }
+  .loader{
+    margin: 0 0 2em;
+    height: 100px;
+    width: 20%;
+    text-align: center;
+    padding: 1em;
+    margin: 0 auto 1em;
+    display: inline-block;
+    vertical-align: top;
+    transform: scale(2);
+    left: 0px;
+    top: 0px;
+  }
+  
+
+div.load-panel svg path, div.load-panel svg rect{
+  fill: #1FEA00;
+}
 
 input#address-input {
     display: flex;
@@ -70,6 +110,7 @@ div.nav-items-container {
     flex-direction: column;
     align-items: flex-start;
     align-self: stretch;
+    gap: 8px;
 }
 
 div.nav-item {
@@ -82,11 +123,17 @@ div.nav-item {
     transition: transform 250ms ease-out;
 }
 
+
 div.nav-item:hover {
     background: rgba(77, 77, 77, 0.40);
-    box-shadow: 0px 0px 12px 8px rgba(0, 0, 0, 0.70);
+    box-shadow: 0px 5px 12px 8px rgba(0, 0, 0, 0.70);
     backdrop-filter: blur(2px);
     transform: scale(1.15);
+}
+
+div.nav-item.active {
+    background: rgba(77, 77, 77, 0.25);
+    backdrop-filter: blur(2px);
 }
 
 
@@ -147,9 +194,12 @@ div.network-provider-container {
     width: auto;
     padding: 16px 0px;
     align-items: center;
+    justify-content: center;
     gap: 24px;
     transition: transform 250ms ease-out;
 }
+ 
+
 
 div.network-provider-container:hover {
     transform: scale(1.2) translateX(5%);
@@ -169,9 +219,33 @@ div.network-provider-card {
 
 div.provider-logo {
     justify-content: center;
+    align-items: center;
     width: 232px;
     height: 112px;
     flex-shrink: 0;
+}
+
+div#frogfoot-logo {
+    transform: translateY(28px);
+}
+
+div#zoomfiber-logo, div#ttconnect-logo{
+    transform: scale(0.8);
+}
+div#lightstruck-logo {
+    transform: translateY(-18px) scale(0.9);
+}
+
+div#linkafrica-logo, div#octotel-logo, div#risetelecoms-logo {
+    transform: scale(0.8) translateY(28px);
+}
+
+div#linteg-logo {
+    transform: scale(0.8) translateY(48px);
+}
+
+div#evotel-logo {
+    transform: scale(1.2);
 }
 
 div.mtn-logo-container {
@@ -183,7 +257,17 @@ div.mtn-logo-container {
     font-weight: 600;
 }
 
-div#mtn-logo img {
+div.telkom-logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    transform: translateY(10%);
+    font-weight: 600;
+}
+
+
+div#mtn-logo img, div#telkom-logo img{
     width: 50%;
 }
 
